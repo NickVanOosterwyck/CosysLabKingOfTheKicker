@@ -2,7 +2,7 @@ import streamlit as st
 
 # Sidebar
 st.logo("Assets/Logos/cosys-en-neg-rgb.svg", icon_image="Assets/Logos/cosys-en-neg-rgb-icon.svg")
-st.sidebar.text("Loren ipsum dolor sit amet")
+st.sidebar.text("Nick Van Oosterwyck")
 
 # Main Title
 st.title('Cosys-Lab King of the Kicker 👑')
